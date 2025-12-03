@@ -1,0 +1,5 @@
+{
+  "name": "ShareTable",
+  "description": "A dynamic table editor with PDF export and direct WhatsApp sharing capabilities.",
+  "requestFramePermissions": []
+}
